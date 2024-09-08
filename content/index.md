@@ -1,6 +1,7 @@
 ---
-title: Welcome to Quartz
+title: Welcome to my project archive
 ---
+[[minecraft-server-manager|Minecraft server manager]]
 
-This is a blank Quartz installation.
-See the [documentation](https://quartz.jzhao.xyz) for how to get started.
+[Robosoutěž 2023](https://github.com/Floxicek/Robosoutez2023)
+
