@@ -11,9 +11,7 @@ const config: QuartzConfig = {
     pageTitle: "Floxicek projects",
     enableSPA: true,
     enablePopovers: true,
-    analytics: {
-      provider: "plausible",
-    },
+    analytics: { provider: "google", tagId: "G-4PRF5014EH" },
     locale: "en-US",
     baseUrl: "floxicek.github.io",
     ignorePatterns: ["private", "templates", ".obsidian"],
