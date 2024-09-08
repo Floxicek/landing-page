@@ -4,7 +4,6 @@ draft: false
 ---
 # Introduction
 - zerotier is a vpn tunnel service. It creates a tunnel that connects your computers
-- 
 # Creating network
 1. log into https://my.zerotier.com/ 
 2. create a network ![[zerotier-tutorial.png]]
